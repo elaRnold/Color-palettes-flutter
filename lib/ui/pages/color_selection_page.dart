@@ -27,7 +27,7 @@ class ColorSelectionPage extends StatelessWidget {
         // https://colorhunt.co/
         body: (const Center(
           child: Text(
-              "SingleChildScrollView -> Column -> [ColorPalette, ColorPalette] "),
+              "wtf SingleChildScrollView -> Column -> [ColorPalette, ColorPalette] "),
         )));
   }
 
